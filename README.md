@@ -1,5 +1,6 @@
-### Weekly Weather Forecast Application
+# Weekly Weather Forecast Application
 
+### Project on live [link](https://kerim-ozturk-weather-forecast.netlify.app/)
 
 Used [OpenWeatherApi](https://openweathermap.org/api) <br>
 Used React Context API<br>
